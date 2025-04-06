@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://privacysafe.is">
-    <img src="client/simple/src/brand/searxng.svg" height="100" />
+    <img src="https://raw.githubusercontent.com/PrivacySafe/privacysafe-search/master/client/simple/src/brand/searxng.svg" height="100" />
   </a>
 
   # PrivacySafe Search &ndash; Worry-Free Search Engine
