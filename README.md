@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/searxng/searxng/master/client/simple/src/brand/searxng.svg" height="100" />
   </a>
 
-  # PrivacySafe Search &ndash; A Worry-Free Search Engine
+  # PrivacySafe Search &ndash; Worry-Free Search Engine
 </div>
 
 [PrivacySafe Search](https://privacysafe.is) delivers results from various search engines while protecting you from tracking.  
