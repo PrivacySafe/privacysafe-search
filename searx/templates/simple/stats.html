@@ -15,7 +15,7 @@
 
 {% block head %} {% endblock %}
 {% block content %}
-<h1>{% if selected_engine_name %}<a href="{{ url_for('stats') }}">{% endif %}{{ _('Engine stats') }}{% if selected_engine_name %}</a> - {{ selected_engine_name }}{% endif %}</h1>
+<h1>{% if selected_engine_name %}<a href="{{ url_for('stats') }}">{% endif %}{{ _('Anonymous Engine Metrics') }}{% if selected_engine_name %}</a> - {{ selected_engine_name }}{% endif %}</h1>
 
 {% if not engine_stats.get('time') %}
 {{ _('There is currently no data available. ') }}
